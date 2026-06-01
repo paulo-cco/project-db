@@ -43,6 +43,3 @@ Cada atividade aborda diferentes cenários de banco de dados, permitindo exercit
 ## Autor
 
 Paulo Guimarães Vieira
-
-[GitHub](SEU_LINK_GITHUB)
-
